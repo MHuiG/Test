@@ -2,9 +2,7 @@
 name: 示例博客
 about: 自助添加示例博客
 title: https://
-labels: 
-- 'latest'
-- 'active'
+labels: latest,active
 assignees: ''
 
 ---
