@@ -1,0 +1,27 @@
+# .github/label-commenter-config.yml
+
+labels:
+  - name: Smart
+    labeled:
+      issue:
+        body: |
+          [本指南](https://github.com/volantis-x/hexo-theme-volantis/blob/master/.github/How-To-Ask-Questions-The-Smart-Way.md)将教你如何正确的提问以获得你满意的答案。
+          [This guide](https://github.com/volantis-x/hexo-theme-volantis/blob/master/.github/How-To-Ask-Questions-The-Smart-Way.md) will teach you how to ask questions in a way more likely to get you a satisfactory answer.
+          https://github.com/volantis-x/hexo-theme-volantis/blob/master/.github/How-To-Ask-Questions-The-Smart-Way.md
+        action: close
+  - name: 等待完成自检
+    labeled:
+      issue:
+        body: |
+          请参照自检报告的步骤完成自检。
+          Please refer to the steps in the self inspection report to complete the self inspection.
+  - name: duplicate
+    labeled:
+      issue:
+        body: This issue already exists.
+        action: close
+  - name: wontfix
+    labeled:
+      issue:
+        body: This will not be worked on but we appreciate your contribution.
+        action: close
