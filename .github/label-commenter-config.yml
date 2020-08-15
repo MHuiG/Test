@@ -5,7 +5,7 @@ labels:
     labeled:
       issue:
         body: |
-          :wave: @{issue-author},
+          :wave: Hello,
           [本指南](https://github.com/volantis-x/hexo-theme-volantis/blob/master/.github/How-To-Ask-Questions-The-Smart-Way.md)将教你如何正确的提问以获得你满意的答案。
           [This guide](https://github.com/volantis-x/hexo-theme-volantis/blob/master/.github/How-To-Ask-Questions-The-Smart-Way.md) will teach you how to ask questions in a way more likely to get you a satisfactory answer.
           https://github.com/volantis-x/hexo-theme-volantis/blob/master/.github/How-To-Ask-Questions-The-Smart-Way.md
