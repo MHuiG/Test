@@ -3,10 +3,10 @@
   <title>MHuiG</title>
   <icon>https://mhuig.github.io/icon.png</icon>
   <subtitle>Be Yourself, Make a Difference.</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://mhuig.github.io/atom.xml" rel="self"/>
   
   <link href="https://mhuig.github.io/"/>
-  <updated>2020-08-02T10:23:15.000Z</updated>
+  <updated>2020-11-06T00:35:48.000Z</updated>
   <id>https://mhuig.github.io/</id>
   
   <author>
@@ -17,23 +17,217 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>宇宙的本质是计算</title>
+    <link href="https://mhuig.github.io/posts/92a4ae9.html"/>
+    <id>https://mhuig.github.io/posts/92a4ae9.html</id>
+    <published>2020-11-06T00:35:48.000Z</published>
+    <updated>2020-11-06T00:35:48.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;想象一下，一望无际的大平面被分成了许许多多方格子。每个格子里正好能放下一个“细胞”。这个细胞不能运动，它可以是死的，也可以是活的；但它的状态，是由它周围8个细胞的死活决定。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://mhuig.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://mhuig.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BERT预训练模型及其应用案例</title>
+    <link href="https://mhuig.github.io/posts/48f700eb.html"/>
+    <id>https://mhuig.github.io/posts/48f700eb.html</id>
+    <published>2020-11-05T07:47:27.000Z</published>
+    <updated>2020-11-05T07:47:27.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;预训练模型最开始是在图像领域提出的，获得了良好的效果，近几年才被广泛应用到自然语言处理各项任务中。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;(1)2003年Bengio提出神经网络语言模型NNLM，从此统一了NLP的特征形式——Embedding；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;(2)2013年Mikolov提出词向量Word2vec，延续NNLM又引入了大规模预训练（Pretrain）的思路；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;(3)2017年Vaswani提出Transformer模型，实现用一个模型处理多种NLP任务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;(4) 基于Transformer架构，2018年底开始出现一大批预训练语言模型(3个预训练代表性模型BERT[2018]、XLNet[2019]和MPNet[2020])，刷新众多NLP任务，形成新的里程碑事件。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="NLP" scheme="https://mhuig.github.io/categories/nlp/"/>
+    
+    
+    <category term="NLP" scheme="https://mhuig.github.io/tags/nlp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自然语言处理研究报告[存档备用]</title>
+    <link href="https://mhuig.github.io/posts/618ec98d.html"/>
+    <id>https://mhuig.github.io/posts/618ec98d.html</id>
+    <published>2020-10-20T06:00:59.000Z</published>
+    <updated>2020-10-20T06:00:59.000Z</updated>
+    
+    
+    <summary type="html">存档备用</summary>
+    
+    
+    
+    <category term="NLP" scheme="https://mhuig.github.io/categories/nlp/"/>
+    
+    
+    <category term="NLP" scheme="https://mhuig.github.io/tags/nlp/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>尝试使用GPU加速计算</title>
+    <link href="https://mhuig.github.io/posts/56213be8.html"/>
+    <id>https://mhuig.github.io/posts/56213be8.html</id>
+    <published>2020-10-11T01:11:44.000Z</published>
+    <updated>2020-10-11T01:11:44.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;大规模训练，gpu和cpu速度差别很大。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/categories/data-mining/"/>
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/tags/data-mining/"/>
+    
+    <category term="Machine Learning" scheme="https://mhuig.github.io/tags/machine-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>R语言初步</title>
+    <link href="https://mhuig.github.io/posts/fe073ab3.html"/>
+    <id>https://mhuig.github.io/posts/fe073ab3.html</id>
+    <published>2020-10-10T12:30:27.000Z</published>
+    <updated>2020-10-10T12:30:27.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;尝试使用R语言进行数据处理&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/categories/data-mining/"/>
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/tags/data-mining/"/>
+    
+    <category term="R" scheme="https://mhuig.github.io/tags/r/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>手把手教你用Python开始第一个机器学习项目</title>
+    <link href="https://mhuig.github.io/posts/110850a.html"/>
+    <id>https://mhuig.github.io/posts/110850a.html</id>
+    <published>2020-10-10T11:43:22.000Z</published>
+    <updated>2020-10-10T11:43:22.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;熟悉一个新的平台或者一个新的工具最好的方式就是从头到尾踏实的完成一个机器学习项目&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/categories/data-mining/"/>
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/tags/data-mining/"/>
+    
+    <category term="Machine Learning" scheme="https://mhuig.github.io/tags/machine-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>How to Setup Your Python Environment for Machine Learning With Anaconda</title>
+    <link href="https://mhuig.github.io/posts/2f550c8c.html"/>
+    <id>https://mhuig.github.io/posts/2f550c8c.html</id>
+    <published>2020-09-11T14:30:22.000Z</published>
+    <updated>2020-09-11T14:30:22.000Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;In this tutorial, we will cover the following steps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.Download Anaconda&lt;/li&gt;
+&lt;li&gt;2.Install Anaconda&lt;/li&gt;
+&lt;li&gt;3.Start and Update Anaconda&lt;/li&gt;
+&lt;li&gt;4.Update scikit-learn Library&lt;/li&gt;
+&lt;li&gt;5.Install Deep Learning Libraries&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/categories/data-mining/"/>
+    
+    
+    <category term="Data mining" scheme="https://mhuig.github.io/tags/data-mining/"/>
+    
+    <category term="Machine Learning" scheme="https://mhuig.github.io/tags/machine-learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Jupyter测试</title>
+    <link href="https://mhuig.github.io/posts/a2eb4e7a.html"/>
+    <id>https://mhuig.github.io/posts/a2eb4e7a.html</id>
+    <published>2020-09-10T13:02:43.000Z</published>
+    <updated>2020-09-10T13:02:43.000Z</updated>
+    
+    
+    <summary type="html">jupyter测试</summary>
+    
+    
+    
+    <category term="实验性" scheme="https://mhuig.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
+    
+    
+    <category term="实验性" scheme="https://mhuig.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初探 Cloudflare Workers 边缘计算</title>
+    <link href="https://mhuig.github.io/posts/4a0f523a.html"/>
+    <id>https://mhuig.github.io/posts/4a0f523a.html</id>
+    <published>2020-08-31T11:53:40.000Z</published>
+    <updated>2020-08-31T11:53:40.000Z</updated>
+    
+    
+    <summary type="html">尝试在边缘运行JavaScript。</summary>
+    
+    
+    
+    <category term="边缘计算" scheme="https://mhuig.github.io/categories/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/"/>
+    
+    
+    <category term="边缘计算" scheme="https://mhuig.github.io/tags/%E8%BE%B9%E7%BC%98%E8%AE%A1%E7%AE%97/"/>
+    
+  </entry>
+  
+  <entry>
     <title>基于K均值聚类的网络流量异常检测(pyspark)</title>
     <link href="https://mhuig.github.io/posts/7b55143e.html"/>
     <id>https://mhuig.github.io/posts/7b55143e.html</id>
     <published>2020-08-02T10:23:15.000Z</published>
     <updated>2020-08-02T10:23:15.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;异常检测常用于检测欺诈、网络攻击、服务器及传感设备故障。在这些应用中，我们要能够找出以前从未见过的新型异常，如新欺诈方式、新入侵方法或新服务器故障模式。&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;p&gt;异常检测常用于检测欺诈、网络攻击、服务器及传感设备故障。在这些应用中，我们要能够找出以前从未见过的新型异常，如新欺诈方式、新入侵方法或新服务器故障模式。&lt;/p&gt;</summary>
     
     
-      <category term="spark" scheme="https://MHuiG.github.io/categories/spark/"/>
+    
+    <category term="spark" scheme="https://mhuig.github.io/categories/spark/"/>
     
     
-      <category term="spark" scheme="https://MHuiG.github.io/tags/spark/"/>
+    <category term="spark" scheme="https://mhuig.github.io/tags/spark/"/>
     
   </entry>
   
@@ -44,17 +238,15 @@
     <published>2020-08-02T07:34:13.000Z</published>
     <updated>2020-08-02T07:34:13.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;根据用户播放次数数据使用协同过滤算法完成音乐推荐。&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;p&gt;根据用户播放次数数据使用协同过滤算法完成音乐推荐。&lt;/p&gt;</summary>
     
     
-      <category term="spark" scheme="https://MHuiG.github.io/categories/spark/"/>
+    
+    <category term="spark" scheme="https://mhuig.github.io/categories/spark/"/>
     
     
-      <category term="spark" scheme="https://MHuiG.github.io/tags/spark/"/>
+    <category term="spark" scheme="https://mhuig.github.io/tags/spark/"/>
     
   </entry>
   
@@ -65,17 +257,15 @@
     <published>2020-05-20T07:45:29.000Z</published>
     <updated>2020-05-20T07:45:29.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;Spark RDD 编程&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;p&gt;Spark RDD 编程&lt;/p&gt;</summary>
     
     
-      <category term="spark" scheme="https://MHuiG.github.io/categories/spark/"/>
+    
+    <category term="spark" scheme="https://mhuig.github.io/categories/spark/"/>
     
     
-      <category term="spark" scheme="https://MHuiG.github.io/tags/spark/"/>
+    <category term="spark" scheme="https://mhuig.github.io/tags/spark/"/>
     
   </entry>
   
@@ -86,17 +276,15 @@
     <published>2020-05-07T11:06:38.000Z</published>
     <updated>2020-05-07T11:06:38.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;Spark  在 Ubuntu20.04 中的配置&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;p&gt;Spark  在 Ubuntu20.04 中的配置&lt;/p&gt;</summary>
     
     
-      <category term="Spark" scheme="https://MHuiG.github.io/categories/spark/"/>
+    
+    <category term="Spark" scheme="https://mhuig.github.io/categories/spark/"/>
     
     
-      <category term="Spark" scheme="https://MHuiG.github.io/tags/spark/"/>
+    <category term="Spark" scheme="https://mhuig.github.io/tags/spark/"/>
     
   </entry>
   
@@ -107,21 +295,19 @@
     <published>2020-05-06T08:30:53.000Z</published>
     <updated>2020-05-06T08:30:53.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;Ubuntu 20.04 LTS 在虚拟机中的安装配置&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;p&gt;Ubuntu 20.04 LTS 在虚拟机中的安装配置&lt;/p&gt;</summary>
     
     
-      <category term="Linux" scheme="https://MHuiG.github.io/categories/linux/"/>
     
-      <category term="Ubuntu" scheme="https://MHuiG.github.io/categories/linux/ubuntu/"/>
+    <category term="Linux" scheme="https://mhuig.github.io/categories/linux/"/>
+    
+    <category term="Ubuntu" scheme="https://mhuig.github.io/categories/linux/ubuntu/"/>
     
     
-      <category term="Linux" scheme="https://MHuiG.github.io/tags/linux/"/>
+    <category term="Linux" scheme="https://mhuig.github.io/tags/linux/"/>
     
-      <category term="Ubuntu" scheme="https://MHuiG.github.io/tags/ubuntu/"/>
+    <category term="Ubuntu" scheme="https://mhuig.github.io/tags/ubuntu/"/>
     
   </entry>
   
@@ -132,17 +318,15 @@
     <published>2020-05-04T11:47:43.000Z</published>
     <updated>2020-05-04T11:47:43.000Z</updated>
     
-    <summary type="html">
     
-      &lt;p&gt;互联网将人与人之间的距离大大减小，却还是形成了大大小小的孤岛。只有熟人间才知道彼此，而陌生人永远只能是陌生人。&lt;/p&gt;
-    
-    </summary>
+    <summary type="html">&lt;p&gt;互联网将人与人之间的距离大大减小，却还是形成了大大小小的孤岛。只有熟人间才知道彼此，而陌生人永远只能是陌生人。&lt;/p&gt;</summary>
     
     
-      <category term="笔录" scheme="https://MHuiG.github.io/categories/%E7%AC%94%E5%BD%95/"/>
+    
+    <category term="随笔" scheme="https://mhuig.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="笔录" scheme="https://MHuiG.github.io/tags/%E7%AC%94%E5%BD%95/"/>
+    <category term="随笔" scheme="https://mhuig.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -153,17 +337,15 @@
     <published>2020-05-04T08:50:43.000Z</published>
     <updated>2020-05-04T08:50:43.000Z</updated>
     
-    <summary type="html">
     
-      What Did Hubble See on Your Birthday?
-    
-    </summary>
+    <summary type="html">What Did Hubble See on Your Birthday?</summary>
     
     
-      <category term="笔录" scheme="https://MHuiG.github.io/categories/%E7%AC%94%E5%BD%95/"/>
+    
+    <category term="随笔" scheme="https://mhuig.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="笔录" scheme="https://MHuiG.github.io/tags/%E7%AC%94%E5%BD%95/"/>
+    <category term="随笔" scheme="https://mhuig.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -174,17 +356,15 @@
     <published>2020-05-02T13:02:43.000Z</published>
     <updated>2020-05-02T13:02:43.000Z</updated>
     
-    <summary type="html">
     
-      PDF测试
-    
-    </summary>
+    <summary type="html">PDF测试</summary>
     
     
-      <category term="实验性" scheme="https://MHuiG.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
+    
+    <category term="实验性" scheme="https://mhuig.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
     
     
-      <category term="实验性" scheme="https://MHuiG.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
+    <category term="实验性" scheme="https://mhuig.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
     
   </entry>
   
@@ -195,17 +375,15 @@
     <published>2020-05-01T00:02:39.000Z</published>
     <updated>2020-05-01T00:02:39.000Z</updated>
     
-    <summary type="html">
     
-      大数据技术概述 简述
-    
-    </summary>
+    <summary type="html">大数据技术概述 简述</summary>
     
     
-      <category term="BigData" scheme="https://MHuiG.github.io/categories/bigdata/"/>
+    
+    <category term="BigData" scheme="https://mhuig.github.io/categories/bigdata/"/>
     
     
-      <category term="BigData" scheme="https://MHuiG.github.io/tags/bigdata/"/>
+    <category term="BigData" scheme="https://mhuig.github.io/tags/bigdata/"/>
     
   </entry>
   
@@ -216,17 +394,15 @@
     <published>2020-04-30T06:06:43.000Z</published>
     <updated>2020-04-30T06:06:43.000Z</updated>
     
-    <summary type="html">
     
-      code block fullscreen test
-    
-    </summary>
+    <summary type="html">code block fullscreen test</summary>
     
     
-      <category term="实验性" scheme="https://MHuiG.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
+    
+    <category term="实验性" scheme="https://mhuig.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
     
     
-      <category term="实验性" scheme="https://MHuiG.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
+    <category term="实验性" scheme="https://mhuig.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
     
   </entry>
   
@@ -237,234 +413,15 @@
     <published>2020-04-28T04:05:43.000Z</published>
     <updated>2020-04-28T04:05:43.000Z</updated>
     
-    <summary type="html">
     
-      流量警告&lt;br&gt;Flow warning
+    <summary type="html">流量警告&lt;br&gt;Flow warning</summary>
     
-    </summary>
     
     
-      <category term="笔录" scheme="https://MHuiG.github.io/categories/%E7%AC%94%E5%BD%95/"/>
+    <category term="实验性" scheme="https://mhuig.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
     
     
-      <category term="笔录" scheme="https://MHuiG.github.io/tags/%E7%AC%94%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>时间之箭</title>
-    <link href="https://mhuig.github.io/posts/564714f9.html"/>
-    <id>https://mhuig.github.io/posts/564714f9.html</id>
-    <published>2020-04-22T01:42:43.000Z</published>
-    <updated>2020-04-22T01:42:43.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;时间就像一只箭，射向未知的前方，把过去永远留在后面。&lt;br&gt;Time is like an arrow, shooting towards the unknown, leaving the past behind forever.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Time" scheme="https://MHuiG.github.io/categories/time/"/>
-    
-    
-      <category term="Time" scheme="https://MHuiG.github.io/tags/time/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://mhuig.github.io/posts/4a17b156.html"/>
-    <id>https://mhuig.github.io/posts/4a17b156.html</id>
-    <published>2020-04-19T06:24:29.000Z</published>
-    <updated>2020-04-19T06:24:29.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;你好，世界！&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Hello" scheme="https://MHuiG.github.io/categories/hello/"/>
-    
-    
-      <category term="Hello" scheme="https://MHuiG.github.io/tags/hello/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>理解卷积</title>
-    <link href="https://mhuig.github.io/posts/xa6297acc.html"/>
-    <id>https://mhuig.github.io/posts/xa6297acc.html</id>
-    <published>2020-03-09T12:05:42.000Z</published>
-    <updated>2020-03-09T12:05:42.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本文的目的是深入的理解卷积,通过一些示例,卷积将会成为一个非常简单的想法.&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Math" scheme="https://MHuiG.github.io/categories/math/"/>
-    
-      <category term="概率" scheme="https://MHuiG.github.io/categories/math/%E6%A6%82%E7%8E%87/"/>
-    
-    
-      <category term="Math" scheme="https://MHuiG.github.io/tags/math/"/>
-    
-      <category term="概率" scheme="https://MHuiG.github.io/tags/%E6%A6%82%E7%8E%87/"/>
-    
-      <category term="神经网络" scheme="https://MHuiG.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript反调试</title>
-    <link href="https://mhuig.github.io/posts/bfe2ff2a.html"/>
-    <id>https://mhuig.github.io/posts/bfe2ff2a.html</id>
-    <published>2020-02-26T02:36:40.000Z</published>
-    <updated>2020-02-26T02:36:40.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;总结一下关于JavaScript反调试技巧方面的内容。本文的目的是收集与JavaScript中的反调试有关的小窍门（其中一些已经被恶意软件或商业产品使用）。&lt;br /&gt;
-    
-    </summary>
-    
-    
-      <category term="JavaScript" scheme="https://MHuiG.github.io/categories/javascript/"/>
-    
-    
-      <category term="JavaScript" scheme="https://MHuiG.github.io/tags/javascript/"/>
-    
-      <category term="反调试" scheme="https://MHuiG.github.io/tags/%E5%8F%8D%E8%B0%83%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Python如何调用C</title>
-    <link href="https://mhuig.github.io/posts/b6ffaac2.html"/>
-    <id>https://mhuig.github.io/posts/b6ffaac2.html</id>
-    <published>2020-02-24T07:45:30.000Z</published>
-    <updated>2020-02-24T07:45:30.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Python语言特点：简单，明确，优雅，高效率，同时Python语言的可扩展性和可嵌入性很强，又被成为“胶水语言”。但是Python语言有一个最大的缺点，便是运行速度慢，所以当你对速度有要求时，你可以用C语言来编写你的关键代码，或者当你希望某些算法不公开时，也可以把你的程序用C编写，然后在你的Python程序中使用它们。本文将介绍在Python程序中如何调用C…&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Python" scheme="https://MHuiG.github.io/categories/python/"/>
-    
-    
-      <category term="Python" scheme="https://MHuiG.github.io/tags/python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Npm更换源</title>
-    <link href="https://mhuig.github.io/posts/ba036091.html"/>
-    <id>https://mhuig.github.io/posts/ba036091.html</id>
-    <published>2020-02-23T11:02:43.000Z</published>
-    <updated>2020-02-23T11:02:43.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;由于npm的源在国外，所以国内用户使用起来有很多不方便，比如拖慢下载速度。&lt;br /&gt;
-    
-    </summary>
-    
-    
-      <category term="npm" scheme="https://MHuiG.github.io/categories/npm/"/>
-    
-    
-      <category term="npm" scheme="https://MHuiG.github.io/tags/npm/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>LBS 球面距离公式</title>
-    <link href="https://mhuig.github.io/posts/5e7ad437.html"/>
-    <id>https://mhuig.github.io/posts/5e7ad437.html</id>
-    <published>2020-02-23T01:40:32.000Z</published>
-    <updated>2020-02-23T01:40:32.000Z</updated>
-    
-    <summary type="html">
-    
-      推荐使用Haversine公式
-    
-    </summary>
-    
-    
-      <category term="Math" scheme="https://MHuiG.github.io/categories/math/"/>
-    
-    
-      <category term="Python" scheme="https://MHuiG.github.io/tags/python/"/>
-    
-      <category term="Math" scheme="https://MHuiG.github.io/tags/math/"/>
-    
-      <category term="距离" scheme="https://MHuiG.github.io/tags/%E8%B7%9D%E7%A6%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>NoSQL-Neo4j</title>
-    <link href="https://mhuig.github.io/posts/9b624d43.html"/>
-    <id>https://mhuig.github.io/posts/9b624d43.html</id>
-    <published>2020-02-09T02:41:51.000Z</published>
-    <updated>2020-02-09T02:41:51.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;NoSQL Neo4j PDF &lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="大数据" scheme="https://MHuiG.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-      <category term="NoSQL" scheme="https://MHuiG.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/nosql/"/>
-    
-    
-      <category term="大数据" scheme="https://MHuiG.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-      <category term="PDF" scheme="https://MHuiG.github.io/tags/pdf/"/>
-    
-      <category term="NoSQL" scheme="https://MHuiG.github.io/tags/nosql/"/>
-    
-      <category term="Neo4j" scheme="https://MHuiG.github.io/tags/neo4j/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>NoSQL-MongoDB</title>
-    <link href="https://mhuig.github.io/posts/ec477027.html"/>
-    <id>https://mhuig.github.io/posts/ec477027.html</id>
-    <published>2020-02-09T02:41:50.000Z</published>
-    <updated>2020-02-09T02:41:50.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;NoSQL MongoDB PDF &lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="大数据" scheme="https://MHuiG.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-      <category term="NoSQL" scheme="https://MHuiG.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/nosql/"/>
-    
-    
-      <category term="大数据" scheme="https://MHuiG.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
-    
-      <category term="PDF" scheme="https://MHuiG.github.io/tags/pdf/"/>
-    
-      <category term="NoSQL" scheme="https://MHuiG.github.io/tags/nosql/"/>
-    
-      <category term="MongoDB" scheme="https://MHuiG.github.io/tags/mongodb/"/>
+    <category term="实验性" scheme="https://mhuig.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%80%A7/"/>
     
   </entry>
   
