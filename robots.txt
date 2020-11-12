@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Allow: /posts/
-Allow: /about/
-Disallow: /archives/
-Disallow: /page/
-
-Sitemap: https://MHuiG.github.io/sitemap.xml
