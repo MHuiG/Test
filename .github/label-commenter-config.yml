@@ -6,7 +6,7 @@ labels:
       issue:
         body: |
           :wave: Hello,
-          [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)将教你如何正确的提问以获得你满意的答案。
+          [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)将教你如何正确的提问以获得你满意的答案。
           [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) will teach you how to ask questions in a way more likely to get you a satisfactory answer.
         action: close
   - name: 等待完成自检
