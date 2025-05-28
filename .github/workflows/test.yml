@@ -14,6 +14,8 @@ jobs:
           ls -lrt
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git branch
+          git log
           git reset --hard "HEAD^"
           git push -f
 
