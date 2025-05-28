@@ -12,6 +12,6 @@ jobs:
         run: |
           pwd
           ls -lrt
-          git reset --hard HEAD^
+          git reset HEAD^
           git push -f
 
