@@ -11,7 +11,7 @@ jobs:
       - name: git reset
         run: |
           pwd
-          cd ..
+          ls -lrt
           git reset --hard HEAD^
           git push -f
 
