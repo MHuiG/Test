@@ -1,7 +1,6 @@
-name: CI
+name: git reset
 
 on:
-  push:
   workflow_dispatch:
 
 jobs:
@@ -9,8 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Run a multi-line script
+      - name: git reset
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          git reset --hard ^
+          git push -f
 
